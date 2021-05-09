@@ -1,6 +1,6 @@
 const BLOCK_WIDTH = 40
 const BLOCK_HEIGHT = 40
-const BLOCK_MAX = 6
+const BLOCK_MAX = 10
 
 const targets = {
     UP: 0,
